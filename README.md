@@ -9,7 +9,7 @@ Computer science engineering student
 * 🧠  I'm learning Docker
 * 🤝  I'm open to collaborating on AI Projects
 * ⚡  President of X-change UIT club
-* ❤  Passionate about traveling
+* ❤   Passionate about traveling
 
 <a href="https://www.github.com/FAYCAL-EL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FAYCAL-EL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
