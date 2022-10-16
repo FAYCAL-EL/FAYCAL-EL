@@ -4,11 +4,12 @@ Hi 👋 My name is FAYCAL
 Computer science engineering student
 ------------------------------------
 
-* 🌍  I'm based in Kenitra, Morocco
+* 🌍  I'm based in Kenitra, Morocco
 * ✉️  You can contact me at [faysalelourrat@gmail.com](mailto:faysalelourrat@gmail.com)
-* 🧠  I'm learning Docker
+* 🧠  I'm learning Docker
 * 🤝  I'm open to collaborating on AI Projects
-* ⚡  President of X-change UIT club
+* ⚡  President of X-change UIT club
+* ❤  Passionate about traveling
 
 <a href="https://www.github.com/FAYCAL-EL" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/FAYCAL-EL?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
