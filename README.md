@@ -1,4 +1,4 @@
-Hi 👋 My name is FAYCAL
+Hi 👋 My name is FAYCAL EL OURRAT
 =======================
 
 Computer science engineering student
