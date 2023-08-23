@@ -6,8 +6,8 @@ Computer science engineering student
 
 * 🌍  I'm based in Kenitra, Morocco
 * ✉️  You can contact me at [faysalelourrat@gmail.com](mailto:faysalelourrat@gmail.com)
-* 🧠  I'm learning Docker
-* 🤝  I'm open to collaborating on AI Projects
+* 🧠  I'm learning about microservices
+* 🤝  I'm open to collaborating on DevOps Projects
 * ⚡  President of X-change UIT club
 * ❤   Passionate about traveling
 
