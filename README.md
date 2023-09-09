@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, My name is FAYCAL</h1>
 <h3 align="center">CS engineering student - Interested in DevOps</h3>
-* 🌍 I'm based in Agadir, Morocco.
-* 🧠 I’m currently learning *kubernetes*.
-* 🤝 I'm open to collaborating on *DevOps Projects*.
+
+* 🌍 I'm based in Agadir, Morocco
+* 🧠 I’m currently learning **kubernetes**.
+* 🤝 I'm open to collaborating on **DevOps Projects**.
 * ✉️ You can contact me [Here](mailto:faysalelourrat@gmail.com).
-* 💗 Passionate about *Reading & Traveling ^_^*.
+* 💗 Passionate about **Reading & Traveling ^_^**.
+* 🌍  I'm based in Kenitra, Morocco
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
