@@ -1,8 +1,9 @@
+
+
+<h1 align="center">Hi 👋, My name is FAYCAL</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5nhRKXgs4313q/giphy.gif" width="200"/>
 </div>
-
-<h1 align="center">Hi 👋, My name is FAYCAL</h1>
 <h3 align="center">CS engineering student - Interested in DevOps</h3>
 
 * 🌍 I'm based in Agadir, Morocco
