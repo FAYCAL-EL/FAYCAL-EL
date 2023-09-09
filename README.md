@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/cat-funny-tasks-5nhRKXgs4313q" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, My name is FAYCAL</h1>
 <h3 align="center">CS engineering student - Interested in DevOps</h3>
