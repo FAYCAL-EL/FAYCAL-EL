@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, My name is FAYCAL</h1>
-<h3 align="center">CS engineering student - Interested in DevOps</h3>
-
 <div id="header" align="center">
   <img src="https://giphy.com/gifs/cat-funny-tasks-5nhRKXgs4313q" width="100"/>
 </div>
+<h1 align="center">Hi 👋, My name is FAYCAL</h1>
+<h3 align="center">CS engineering student - Interested in DevOps</h3>
 
 * 🌍 I'm based in Agadir, Morocco
 * 🧠 I’m currently learning **kubernetes**.
