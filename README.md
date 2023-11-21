@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5nhRKXgs4313q/giphy.gif" width="200"/>
 </div>
-<h3 align="center">CS engineering student - Interested in DevOps</h3>
+<h3 align="center">DevOps engineering student</h3>
 
 * 🌍 I'm based in Agadir, Morocco
 * 🧠 I’m currently learning **kubernetes**.
