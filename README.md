@@ -4,10 +4,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5nhRKXgs4313q/giphy.gif" width="200"/>
 </div>
-<h3 align="center">DevOps engineering student</h3>
+<h3 align="center">DevOps engineering</h3>
 
 * 🌍 I'm based in Agadir, Morocco
-* 🧠 I’m currently learning **kubernetes**.
 * 🤝 I'm open to collaborating on **DevOps Projects**.
 * ✉️ You can contact me [Here](mailto:faysalelourrat@gmail.com).
 * 💗 Passionate about **Reading & Traveling ^_^**.
